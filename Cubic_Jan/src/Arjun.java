@@ -5,8 +5,7 @@ public class Arjun {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Mahesh Luitel");
-
+System.out.println("maheshhh");
 	}
 
 }
