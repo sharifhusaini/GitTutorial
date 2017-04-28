@@ -8,7 +8,7 @@ public class Arjun {
 		
 		System.out.println("Change made by Idris Git tutorial");
 
-		System.out.println("Nima Pakhrin");
+		System.out.println("add Nima Pakhrin");
 
 
 	}
