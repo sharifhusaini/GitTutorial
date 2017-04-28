@@ -8,14 +8,14 @@ public class Arjun {
 
 System.out.println("maheshhh");
 
-		System.out.println("Sample code added by Arjun");
+		System.out.println("This code is added by Narottam");
 
 
 		System.out.println("I'm trying to make use of kdiff");
 
 
 
-		System.out.println("My name is Temesghen");
+		System.out.println("Narottam");
 		
 		System.out.println("Hello Everyone!!");
 		System.out.println("Hello!!");
