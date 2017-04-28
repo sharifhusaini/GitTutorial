@@ -29,7 +29,7 @@ System.out.println("maheshhh");
 		System.out.println("Nima Pakhrin");
 		System.out.println("Nima Pakhrin");
 		System.out.println("hello guys :: its friday");
-		System.out.println("hello guys :: its fridayyy");
+		System.out.println("hello guys :: its fridayyyyyyy");
 
 
 
